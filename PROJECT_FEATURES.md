@@ -1,20 +1,22 @@
 # Implemented Features
 
-\### T-16: Notification Center
+
+### T-16: Manage Blood Inventory
 
 Tasks
 
-\-View blood stock
+-View blood stock
+-Add new blood units
+-Update blood quantity
+-Remove expired blood
+-Search blood by group
+-Monitor stock availability
 
-\-Add new blood units
+**Status: Implemented**
 
-\-Update blood quantity
+ ### T-15: Dashboard Analytics Widget
+Adds a chart widget to the dashboard summarizing tasks completed per week.
 
-\-Remove expired blood
-
-\-Search blood by group
-
-\-Monitor stock availability
-
-\*\*Status: Implemented\*\*
+**Status: Implemented**
+ 
 
